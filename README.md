@@ -1,4 +1,4 @@
-# Adapted_Euphonium
+# Adapted_Valved_Brass_Instrument
 ​Robin Amend at https://amendmusiccenter.com​ made the first joystick-adapted euphonium in 1999, for a middle-school student in Mead, Washington. 
 
 https://amendmusiccenter.com/assistive-technologies
